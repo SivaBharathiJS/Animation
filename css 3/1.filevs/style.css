@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: rgb(94, 91, 88);
+    color: aliceblue;
+    /* background: url("artwall.png"); */
+   
+}
+div{
+    border: 1px solid rgb(54, 223, 12);
+}
+
+h2{
+    font-size: 30px;
+}

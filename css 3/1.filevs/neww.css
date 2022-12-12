@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    border-radius: 20px;
+    background-image: url(artwall.png);
+
+}
+
+
+
+div{
+    margin-top: 50px;
+    margin-left: 100px;
+    color: rgb(213, 212, 216);
+    background-color: rgba(47, 79, 79, 0.74);
+    height: 200px;
+    width: 150px;
+    padding: 30px;
+}

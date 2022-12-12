@@ -1,0 +1,22 @@
+*{
+    color: darkblue;
+    background-color: rgb(189, 179, 155);
+    
+}
+
+
+
+p{
+    color: brown;
+    height: 10px;
+    background-color: darkseagreen;
+    
+}
+
+#dd1{
+    font-size: 30px;
+}
+.myDiv{
+    color: burlywood;
+
+}

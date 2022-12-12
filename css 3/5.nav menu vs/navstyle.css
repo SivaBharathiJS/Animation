@@ -1,0 +1,53 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image:url(artwall.png);
+    
+}
+header{
+    background-color: rgba(39, 42, 44, 0.63);
+    width: 100%;
+    display: flex;
+}
+.logo{
+    width: 70%;
+    display: inline-flex;       /*display menu in row format */
+    font-style: oblique;
+}
+nav{
+    width: 70%;
+}
+.logo{
+    color: floralwhite;
+    padding: 15px;
+}
+nav ul li{
+    display: inline-flex;
+}
+nav ul li a{
+    border: 1px solid transparent;
+    font-style: oblique;
+    color: rgba(241, 242, 243, 0.904);
+    text-decoration: none;
+    padding: 15px;
+    font-size: 25px;
+}
+nav ul li a:hover{
+    width:  120px;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-name: examp;
+    animation-direction: reverse;
+    background-color: rgba(255, 47, 47, 0.466);
+    text-align: center;
+}
+@keyframes examp{
+    from{
+        background-color: rgba(252, 0, 231, 0.788);
+    }
+    to{
+        background-color: rgba(6, 252, 27, 0.699);
+    }
+}

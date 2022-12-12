@@ -1,0 +1,11 @@
+p{
+   font-style: oblique; 
+}
+#p2{
+    color: rgb(173, 18, 18);
+}
+.heloo{
+    font-style: inherit;
+    font-size: 100px;
+    background-color: rgb(206, 186, 5);
+}
